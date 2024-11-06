@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    color: darkorange;
+    text-align: center;
+    font-size: 50px;
+    background-color: lightblue;
+    padding: 10px;
+    margin: 0px;
+}
+
+h2{
+    color:blueviolet;
+    text-align: right;
+    background-color: lightgreen;
+    text-decoration: underline;
+}
+
+p{
+    font-family: ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+
+.text-change{
+    text-decoration: line-through;
+}
+
+
